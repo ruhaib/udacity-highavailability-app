@@ -134,7 +134,7 @@ Resources:
             ListenerArn: !Ref 'Listener'
             Priority: 1
 
-    WebAppGroup:
+    WebAppAutoScalingGroup:
         Type: AWS::AutoScaling::AutoScalingGroup
         Properties:
             VPCZoneIdentifier:
