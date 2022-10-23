@@ -150,10 +150,10 @@ Resources:
     WebAppTargetGroup:
         Type: AWS::ElasticLoadBalancingV2::TargetGroup
         Properties:
-            HealthCheckIntervalSeconds: 10
+            HealthCheckIntervalSeconds: 120
             HealthCheckPath: /
             HealthCheckProtocol: HTTP
-            HealthCheckTimeoutSeconds: 120
+            HealthCheckTimeoutSeconds: 8
             HealthyThresholdCount: 2
             Port: 80
             Protocol: HTTP
