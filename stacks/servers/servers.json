@@ -4,10 +4,6 @@
 		"ParameterValue": "UdacityProject"
 	},
 	{
-		"ParameterKey": "KeyName",
-		"ParameterValue": "udemy course"
-	},
-	{
 		"ParameterKey": "ImageID",
 		"ParameterValue": "ami-08c40ec9ead489470"
 	},
