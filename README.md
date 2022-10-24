@@ -1,10 +1,16 @@
 # udacity-highavailability-app
 This is a high availability app using IaaC (cloudformation) in AWS
 
+Load Balancer Link (I will take this down soon!):
+http://udaci-WebAp-11D08R7LMS59N-1482171006.us-east-1.elb.amazonaws.com
+
 Cloud Architecture Chart:
 - [Lucidchart shareable Link](https://lucid.app/lucidchart/5ae6888d-632e-47aa-aec7-520d74aa5e2c/edit?viewport_loc=-864%2C-99%2C4195%2C2094%2C0_0&invitationId=inv_c458067b-9820-49e9-a4f1-258a67a4d70b)
 - [image](Cloud%20Architecture%20Chart.png)
 
+<p align="middle">
+  <img src="./Cloud%20Architecture%20Chart.png"/>
+</p>
 
 ### Some helpful commands related to this project and udacity aws account:
 
